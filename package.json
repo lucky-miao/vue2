@@ -1,0 +1,23 @@
+{
+  "name": "v2",
+  "version": "1.0.0",
+  "description": "it's a vue2 component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucky-miao/vue2.git"
+  },
+  "keywords": [
+    "vue2",
+    "ui"
+  ],
+  "author": "miaoyunqi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucky-miao/vue2/issues"
+  },
+  "homepage": "https://github.com/lucky-miao/vue2#readme"
+}
